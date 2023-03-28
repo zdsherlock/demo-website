@@ -1,11 +1,4 @@
-<!--
- * @Author: zd
- * @Date: 2023-03-26 20:58:56
- * @LastEditors: zd
- * @LastEditTime: 2023-03-26 21:02:34
- * @Description: 
--->
-# demo-website
+# demo-openai
 
 ## Project setup
 ```
